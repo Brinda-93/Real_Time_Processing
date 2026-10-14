@@ -104,6 +104,3 @@ This server does not provide authentication or HTTPS encryption. Do not expose i
 - HTTP server
 - MJPEG streaming
 
-## License
-
-This project is available under the MIT License if you choose to distribute it under that license. Add a `LICENSE` file containing the MIT License text before claiming the project is MIT-licensed.
